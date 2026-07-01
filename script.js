@@ -16,3 +16,8 @@ function main(){
     console.log('this is main function');
     console.log('Hello World in main');
 }
+
+function feature(){
+    console.log('this is feature function');
+    console.log('Hello World in feature');
+}
