@@ -22,4 +22,5 @@ function feature(){
     console.log('Hello World in feature');
     console.log('1st commit : feature');
     console.log('2nd commit : feature');
+    console.log('3rd commit in feature');
 }
