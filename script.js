@@ -14,4 +14,5 @@ console.log('4th commit : feature');
 
 function main(){
     console.log('this is main function');
+    console.log('Hello World in main');
 }
