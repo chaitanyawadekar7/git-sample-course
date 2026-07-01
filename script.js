@@ -20,4 +20,6 @@ function main(){
 function feature(){
     console.log('this is feature function');
     console.log('Hello World in feature');
+    console.log('1st commit : feature');
+    console.log('2nd commit : feature');
 }
