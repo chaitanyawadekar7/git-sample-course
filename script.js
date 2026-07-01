@@ -10,3 +10,8 @@ console.log('3rd commit : main');
 console.log('4th commit : main');
 console.log('3rd commit : feature');
 console.log('4th commit : feature');
+
+
+function main(){
+    console.log('this is main function');
+}
