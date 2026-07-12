@@ -37,3 +37,9 @@ sum = add(num1, num2)
 function add(num1, num2){
     console.log('addtion of the 2 numbers : ', num1 + num2)
 }
+num1 = 5
+num2 = 3
+sub = sub(num1, num2)
+function sub(num1, num2){
+    console.log('substraction of 2 numbers : ', num1 - num2)
+}
