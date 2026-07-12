@@ -30,3 +30,10 @@ function feature(){
     console.log('4th commit : feature');
 }
 console.log('this is commit by main');
+num1 = 10
+num2 = 5
+sum = add(num1, num2)
+
+function add(num1, num2){
+    console.log('addtion of the 2 numbers : ', num1 + num2)
+}
