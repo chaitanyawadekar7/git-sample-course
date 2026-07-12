@@ -9,3 +9,9 @@ h2{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
+h3{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+    color: blueviolet;
+}
